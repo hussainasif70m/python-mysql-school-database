@@ -21,5 +21,8 @@ st_name
 st_email
 
 
-Author
-Asif
+Files
+creating_table_in_school_database.py
+display_student_table.py
+Output Screenshot
+school_database_output.jpg
