@@ -1,2 +1,23 @@
-# python-mysql-school-database
-School database management project using Python and MySQL.
+Python MySQL School Database
+This project demonstrates how to create and manage a school database using Python and MySQL.
+
+Features
+Create a database
+Create student table
+Insert records
+Modify table structure
+Retrieve student data
+Technologies Used
+Python
+MySQL
+PyMySQL
+Database Structure
+Table: student
+
+Columns:
+
+st_id
+st_name
+st_email
+Author
+Asif
